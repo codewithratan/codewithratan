@@ -13,9 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1K-z6IDtv67WJZj5k2oX2qVhJZrtyb2L2/view?usp=sharing](https://drive.google.com/file/d/1K-z6IDtv67WJZj5k2oX2qVhJZrtyb2L2/view?usp=sharing)
 
-- 🌐 Personal Website: [codewithratan.vercal.com](https://fc81e4dc98ef41abb8eeb69ba30ad3bf-stellar-field.projects.builder.my/)
-
-
 - ⚡ Fun fact **i am great at coding**
 
 <h3 align="left">Connect with me:</h3>
