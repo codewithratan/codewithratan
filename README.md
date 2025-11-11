@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithratan" alt="codewithratan" /></a> </p>
 
-- 🌱 I’m currently learning **devoops**
+- 🌱 I’m currently learning **devoops**, springboot
 
 - 💬 Ask me about **nodejs, react ,kubernites**
 
