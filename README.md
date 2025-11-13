@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **9311616681| ratandeep.official11@gmail.com |**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K-z6IDtv67WJZj5k2oX2qVhJZrtyb2L2/view?usp=sharing](https://drive.google.com/file/d/1K-z6IDtv67WJZj5k2oX2qVhJZrtyb2L2/view?usp=sharing)
-
 - ⚡ Fun fact **i am great at coding**
 
 <h3 align="left">Connect with me:</h3>
