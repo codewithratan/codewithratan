@@ -42,7 +42,7 @@
       </td>
       <td width="40%">
         <!-- Replace this with your own 3D avatar or animation -->
-        <img width="100%" src="https://www.mixamo.com/.../...animated.gif" alt="3D Avatar" />
+        <img width="100%" src="(https://app.spline.design/file/5d666f70-6471-4f36-8d94-81e34f94836d)" alt="3D Avatar" />
         <!-- You can use a Spline.design animation here too -->
       </td>
     </tr>
