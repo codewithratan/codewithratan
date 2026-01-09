@@ -6,17 +6,23 @@
 </div>
 
 <div align="center">
-  <!-- Animated typing effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3D67FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Data science+%26+Machine Learning;Creative+Animator;Problem+Solver" alt="Typing SVG" />
-  </a>
-</div>
+  <!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;3D+Web+Developer;Open+Source+Contributor;Problem+Solver">
+</p>
 
-<!-- Animated Badge Section -->
+<!-- Badge Section (Fixed + Stable) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/codedalex/Fizzi-3D-Website/stargazers&query=length&color=3D67FF&label=Fizzi-3D-Website Stars&logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/codewithratan&query=public_repos&color=3D67FF&label=Public Repos&logo=github&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=codewithratan &style=for-the-badge&color=3D67FF" alt="Profile Views" />
+
+  <!-- ⭐ Repo Stars -->
+  <img src="https://img.shields.io/github/stars/codewithratan?style=for-the-badge&color=3D67FF" />
+
+  <!-- 📦 Public Repos -->
+  <img src="https://img.shields.io/github/repos/codewithratan?style=for-the-badge&color=3D67FF" />
+
+  <!-- 👁 Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=codewithratan&style=for-the-badge&color=3D67FF" />
+
 </div>
 
 <!-- About Me Section with 3D Animation -->
