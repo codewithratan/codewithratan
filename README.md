@@ -79,6 +79,7 @@
   </picture>
 </div>
 
+![Snake Dark](https://raw.githubusercontent.com/codewithratan/codewithratan/output/github-contribution-grid-snake-dark.svg)
 <!-- Weekly Contribution Graph with animation -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithratan&custom_title=Ratandeep's%20Contribution%20Graph&bg_color=0D1117&color=3D67FF&line=3D67FF&point=3D67FF&area=true&hide_border=true" alt="Activity Graph">
