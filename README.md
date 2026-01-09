@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 3D Animated Header - Replace URL with a custom Spline or Three.js animation -->
   <a href="https://github.com/codewithratan">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d67ff,100:0a1930&height=200&section=header&text=Alex%20Mutonga&desc=Software%20Engineer%20|%203D%20Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=55" width="100%" alt="Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d67ff,100:0a1930&height=200&section=header&text=RATANDEEP%20SINGH&desc=Software%20Engineer%20|%203D%20Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=55" width="100%" alt="Banner"/>
   </a>
 </div>
 
