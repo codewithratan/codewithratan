@@ -92,30 +92,7 @@
   <img src="https://cdn.jsdelivr.net/gh/codedalex/codedalex/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </div>
 
-<!-- Featured Repositories with 3D Cards -->
-<h2>🚀 Featured Projects</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <!-- Fizzi-3D-Website Card with animated preview -->
-  <a href="https://github.com/codedalex/Fizzi-3D-Website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedalex&repo=Fizzi-3D-Website&theme=react&bg_color=0D1117&border_color=3D67FF" />
-  </a>
-  
-  <!-- 3d_dev_portfolio Card -->
-  <a href="https://github.com/codedalex/3d_dev_portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedalex&repo=3d_dev_portfolio&theme=react&bg_color=0D1117&border_color=3D67FF" />
-  </a>
-  
-  <!-- ThreeJSportfolio Card -->
-  <a href="https://github.com/codedalex/ThreeJSportfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedalex&repo=ThreeJSportfolio&theme=react&bg_color=0D1117&border_color=3D67FF" />
-  </a>
-  
-  <!-- Storage-management-system Card -->
-  <a href="https://github.com/codedalex/Storage-management-system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codedalex&repo=Storage-management-system&theme=react&bg_color=0D1117&border_color=3D67FF" />
-  </a>
-</div>
 
 <!-- Skills with Animated Progress Bars -->
 <h2>🛠️ Technologies & Tools</h2>
