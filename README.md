@@ -86,7 +86,7 @@
 </div>
 
 ### 🐍 3D Contribution Snake
-![3D Snake](https://raw.githubusercontent.com/codewithratan/codewithratan/output/github-contribution-grid-snake-3d.svg)
+![Snake animation dark](https://raw.githubusercontent.com/codewithratan/codewithratan/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Animated commit streak with accurate API data -->
 <div align="center">
