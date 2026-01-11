@@ -93,16 +93,6 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithratan&background=0D1117&stroke=3D67FF&ring=3D67FF&fire=3D67FF&currStreakNum=FFFFFF&currStreakLabel=3D67FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="Contribution Streak" />
 </div>
 
-<!-- 3D Contribution Calendar -->
-<div align="center">
-  <h2>🔥 Contributions</h2>
-  <img src="https://raw.githubusercontent.com/codewithratan/codewithratan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Calendar" />
-  <br/><br/>
-  <!-- Use this for a 3D contribution calendar (requires setup) -->
-  <img src="https://cdn.jsdelivr.net/gh/codedalex/codedalex/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</div>
-
-
 
 <!-- Skills with Animated Progress Bars -->
 <h2>🛠️ Technologies & Tools</h2>
@@ -118,7 +108,7 @@
   
   <!-- Tools -->
   <h3>Tools & Design</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,ae,ps" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,ae,ps,python,c++" />
 </div>
 
 
